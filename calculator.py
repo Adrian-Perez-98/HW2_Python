@@ -2,7 +2,7 @@ def calculator(number1, number2, operator):
     """This function is a calculator for two numbers"""
     if operator == '+':
         print(float(number1) + float(number2))
-        return True
+        # return True
     if operator == '-':
         print(float(number1) - float(number2))
         return True
