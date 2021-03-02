@@ -17,7 +17,7 @@ def calculator(number1, number2, operator):
         print(x)
         return x
     if operator == '//':
-        x: int = int(number1) / int(number2)
+        x = int(number1) // int(number2)
         print(x)
         return x
     if operator == '**':
