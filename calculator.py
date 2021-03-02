@@ -2,23 +2,28 @@ def calculator(number1, number2, operator):
     """This function is a calculator for two numbers"""
     if operator == '+':
         x = float(number1) + float(number2)
-        print(float(number1) + float(number2))
+        print(x)
         return x
     if operator == '-':
-        print(float(number1) - float(number2))
-        return True
+        x = float(number1) - float(number2)
+        print(x)
+        return x
     if operator == '*':
-        print(float(number1) * float(number2))
-        return True
+        x = float(number1) * float(number2)
+        print(x)
+        return x
     if operator == '/':
-        print(float(number1) / float(number2))
-        return True
+        x = float(number1) / float(number2)
+        print(x)
+        return x
     if operator == '//':
-        print(int(number1) / int(number2))
-        return True
+        x = int(number1) / int(number2)
+        print(x)
+        return x
     if operator == '**':
-        print(pow(float(number1), float(number2)))
-        return True
+        x = pow(float(number1), float(number2))
+        print(x)
+        return x
     return False
 
 
