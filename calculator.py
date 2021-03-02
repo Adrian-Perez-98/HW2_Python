@@ -1,8 +1,9 @@
 def calculator(number1, number2, operator):
     """This function is a calculator for two numbers"""
     if operator == '+':
+        x = float(number1) + float(number2)
         print(float(number1) + float(number2))
-        # return True
+        return x
     if operator == '-':
         print(float(number1) - float(number2))
         return True
