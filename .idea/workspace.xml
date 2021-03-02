@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d316a9cb-6eb3-44b7-92f0-f263a3a88171" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investment.py" beforeDir="false" afterPath="$PROJECT_DIR$/investment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timing.py" beforeDir="false" afterPath="$PROJECT_DIR$/timing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.calculator">
+  <component name="RunManager" selected="Python.timing">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hw_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,9 +99,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.timing" />
         <item itemvalue="Python.investment" />
+        <item itemvalue="Python.calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -117,22 +119,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1614675966781">
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1614676609757">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1614675966781" />
-    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1614675966781">
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1614676609757" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1614676609756">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1614675966781" />
-    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1614675966780">
+    <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1614676609756" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1614676609755">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1614675966780" />
-    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1614675966781">
+    <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1614676609755" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1614676609756">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1614675966781" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1614676609756" />
     <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1614657156092">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
