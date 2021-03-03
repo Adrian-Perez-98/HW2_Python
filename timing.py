@@ -17,6 +17,3 @@ def calculate_time(func):
 def random_func():
     time.sleep(2)
 
-
-if __name__ == '__main__':
-    random_func()

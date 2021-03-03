@@ -4,6 +4,7 @@
     <list default="true" id="d316a9cb-6eb3-44b7-92f0-f263a3a88171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/investment.py" beforeDir="false" afterPath="$PROJECT_DIR$/investment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timing.py" beforeDir="false" afterPath="$PROJECT_DIR$/timing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
