@@ -1,6 +1,8 @@
 def calculate_apr(principal, interest_rate, years):
     """This function calculates the value of an investment after x amount of years"""
-    for i in range(1, years):
+    if principal < 0 and interest_rate < 0 and years < 0:
+        return False
+    for i in range(0, years):
         total = float(principal * (years + interest_rate))
     return total
 
