@@ -3,16 +3,18 @@ import time
 
 def calculate_time(func):
     """Calculates run time of function"""
+
     def wrapper():
         start = time.time()
         func()
-        print(time.time() - start)
+        end = time.time()
+        print(end - start)
+
     return wrapper
 
 
 @calculate_time
 def random_func():
-    """Random function wrapped by @calculate_time"""
     time.sleep(2)
 
 
