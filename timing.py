@@ -5,11 +5,9 @@ def calculate_time(func):
     """Calculates run time of function"""
 
     def wrapper():
-        start = time.time()
+        x = time.time()
         func()
-        end = time.time()
-        print(end - start)
-
+        print(time.time() - x)
     return wrapper
 
 
@@ -17,3 +15,6 @@ def calculate_time(func):
 def random_func():
     time.sleep(2)
 
+
+if __name__ == '__main__':
+    random_func()
