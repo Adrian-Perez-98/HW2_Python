@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d316a9cb-6eb3-44b7-92f0-f263a3a88171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/investment.py" beforeDir="false" afterPath="$PROJECT_DIR$/investment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timing.py" beforeDir="false" afterPath="$PROJECT_DIR$/timing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.investment">
+  <component name="RunManager" selected="Python.timing">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hw_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.investment" />
         <item itemvalue="Python.timing" />
+        <item itemvalue="Python.investment" />
         <item itemvalue="Python.calculator" />
       </list>
     </recent_temporary>
@@ -123,22 +122,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="240" y="77" key="#Inspections/0.23.1280.777@0.23.1280.777" timestamp="1614677892566" />
-    <state width="1259" height="207" key="GridCell.Tab.0.bottom" timestamp="1614967787776">
+    <state width="1259" height="207" key="GridCell.Tab.0.bottom" timestamp="1614968179002">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1614967787776" />
-    <state width="1259" height="207" key="GridCell.Tab.0.center" timestamp="1614967787775">
+    <state width="1259" height="207" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1614968179002" />
+    <state width="1259" height="207" key="GridCell.Tab.0.center" timestamp="1614968179001">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1614967787775" />
-    <state width="1259" height="207" key="GridCell.Tab.0.left" timestamp="1614967787775">
+    <state width="1259" height="207" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1614968179001" />
+    <state width="1259" height="207" key="GridCell.Tab.0.left" timestamp="1614968179001">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1614967787775" />
-    <state width="1259" height="207" key="GridCell.Tab.0.right" timestamp="1614967787776">
+    <state width="1259" height="207" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1614968179001" />
+    <state width="1259" height="207" key="GridCell.Tab.0.right" timestamp="1614968179002">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1614967787776" />
+    <state width="1259" height="207" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1614968179002" />
     <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1614657156092">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

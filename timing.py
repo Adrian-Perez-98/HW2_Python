@@ -5,9 +5,11 @@ def calculate_time(func):
     """Calculates run time of function"""
 
     def wrapper():
-        x = time.time()
+        start = time.time()
         func()
-        print(time.time() - x)
+        end = time.time()
+        x = end - start
+        print('Total time', x)
     return wrapper
 
 
